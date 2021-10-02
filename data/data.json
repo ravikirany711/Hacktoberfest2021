@@ -847,6 +847,11 @@
       "text":"The entrepreneur builds an enterprise; the technician builds a job.",
       "from":"Michael Gerber"
    },
+   {
+      "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma—which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition.",
+      "from" : "Steve Jobs, Co-Founder of Apple "
+   },
+
    {  
       "text":"If you want to be inventive, you have to be willing to fail.",
       "from":"Jeff Bezos"
@@ -1303,4 +1308,5 @@
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
    }
+   
 ]
